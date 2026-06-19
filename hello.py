@@ -35,6 +35,7 @@ persian_cat=Cat("cat",4)
 print(persian_cat.checkPussy(persian_cat.n))
 print(german_shepherd.mogger(german_shepherd.a))
 print(persian_cat.mogger(persian_cat.a))
+#this is tesst code for the inheritance in python 
 
 
     
